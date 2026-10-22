@@ -29,3 +29,5 @@ html{scroll-padding-top:96px}body{background:var(--paper);color:var(--ink)}
 
 /* Footer identity with profile photo. */
 .footer-brand{display:inline-flex;align-items:center;gap:10px}.footer-brand img{width:34px;height:34px;flex:0 0 34px;object-fit:cover;object-position:center 27%;border-radius:50%;border:1px solid rgba(255,255,255,.48)}
+
+.contact-layout-single{grid-template-columns:minmax(0,700px);}
